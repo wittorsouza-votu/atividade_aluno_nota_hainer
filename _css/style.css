@@ -1,0 +1,27 @@
+.bord{
+    width: 350px;
+    border: none;
+    background-color: brown;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15%;
+    margin-top: 10%;
+
+}
+body{
+    text-align: center;
+    background-color:bisque
+}
+input[type=text]{
+    height: 30px;
+    width: 200px;
+}
+input[type=number]{
+    background-color: bisque;
+    width: 40px;
+    height: 30px;
+}
+input[type=submit]{
+    width: 150px;
+}
